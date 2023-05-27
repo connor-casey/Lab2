@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Lab2</string>
+<string name="android">J\'aime Android!</string>
+    <string name="check_box">Cliquez-moi !</string>
+    <string name="switch_txt_off">L\'interrupteur est éteint!</string>
+    <string name="switch_snack_on">L\'interrupteur est activé!</string>
+    <string name="switch_undo">Annuler</string>
+    <string name="button_txt">Pressez-moi!</string>
+    <string name="hint_text">J\'aime Android!</string>
+    <string name="toast_msg">L\'étiquette a été mise à jour!</string>
+</resources>

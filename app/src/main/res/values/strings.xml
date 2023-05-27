@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="android">I Love Android!</string>
+    <string name="check_box">Click me!</string>
+    <string name="switch_txt_off">Switch is OFF!</string>
+    <string name="switch_snack_on">Switch is ON!</string>
+    <string name="switch_undo">Undo</string>
+    <string name="button_txt">Press me!</string>
+    <string name="hint_text">I Love Android!</string>
+    <string name="toast_msg">Label has been Updated!</string>
+</resources>
